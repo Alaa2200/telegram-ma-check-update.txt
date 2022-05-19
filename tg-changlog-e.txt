@@ -1,17 +1,16 @@
-Version 1.15. Changelog:
+Version 1.40. Changelog:
 
->Added option to always show spoilers
->Double tap a message to send a quick :thumbsup: reaction.
->Tap on the message for more reactions.
->Add 'Spoiler' formatting to hide some or all of the contents of a message.
->Turn on Translation in Settings > Languages, then tap a message to translate it.
->Generate custom QR Codes for any public t.me link â€“ works for profiles, groups, bots and channels.
->Added option to use external main folder in android 11+
->Added option to move files on Telegram/Plus folder from old to new path.
->Protected content. Authors can limit the ability to save media, take screenshots and forward messages from their groups and channels.
->Delete by date. Tap the date header in 1-on-1 chats and select a date range to clear chat history from that period.
->Device management. Quickly connect desktop and web versions via QR codes. Control which devices may accept Calls or new Secret Chats.
->Comment as one of your channels in public groups.
->Added option to change sticker size in chat
->Added option to hide sender selector in chat
->Bug fixes and other minor improvements.
+> Updated source code to v8.7.4.
+> Turn any short audio file into a custom notification sound for any chat.
+> Disable notifications from any chat for a custom period of time.
+> Turn off sound without disabling notifications.
+> Quickly set up Auto-Delete and add a custom duration.
+> Watch videos in the redesigned picture-in-picture window.
+> See which forwarded messages are replies.
+> Use powerful web-based interfaces for bots.
+> Tap and hold mention option to mention by id.
+> Option to show â€™Downloadsâ€™ button always in main screen.
+> Option to clear all pending downloads.
+> Now voice messages are also shown in player alert.
+> Option to hide reactions buttons in messages.
+> Bug fixes and other minor improvements.
