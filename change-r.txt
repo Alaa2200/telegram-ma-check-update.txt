@@ -1,6 +1,6 @@
-Version 1.40. Changelog:
+Version 1.50. Changelog:
 
-> Updated source code to v8.7.4.
+> Updated source code to v8.8.4.0.
 > Turn any short audio file into a custom notification sound for any chat.
 > Disable notifications from any chat for a custom period of time.
 > Turn off sound without disabling notifications.
